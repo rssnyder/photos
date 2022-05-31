@@ -1,5 +1,8 @@
 # photos
 
+#### Pizza night
+![PXL_20220529_230050508 MP](https://user-images.githubusercontent.com/7338312/171278406-f7acfd2d-96af-49ca-af05-d883734f6bde.jpg)
+
 #### Late night in the lab
 ![PXL_20220420_003628750](https://user-images.githubusercontent.com/7338312/164254550-514126b3-cb1b-4948-a506-b067bf6c7f46.jpg)
 
