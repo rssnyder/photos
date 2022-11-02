@@ -1,5 +1,8 @@
 # photos
 
+#### Frankenstein's monster's PC
+![image](https://user-images.githubusercontent.com/7338312/199373019-30396237-b7d3-4a40-8a96-3270fbdb5edb.png)
+
 #### Pizza night
 ![PXL_20220529_230050508 MP](https://user-images.githubusercontent.com/7338312/171278406-f7acfd2d-96af-49ca-af05-d883734f6bde.jpg)
 
