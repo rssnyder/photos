@@ -1,5 +1,21 @@
 # photos
 
+#### Bonnaroo
+
+![PXL_20230619_001147901](https://github.com/rssnyder/photos/assets/7338312/18e138b0-c476-4570-84ed-aa6c47ace7cf)
+
+#### The River Thames
+
+![IMG_3504_(1)](https://github.com/rssnyder/photos/assets/7338312/d6143f87-834e-4bdb-9a65-dc9b135d7f34)
+
+#### Christmas
+
+![PXL_20221211_030303257 NIGHT](https://github.com/rssnyder/photos/assets/7338312/1e91b20b-7354-4821-88b8-31d44da7f125)
+
+#### Babychella
+
+![KJ1_2505 (1)](https://github.com/rssnyder/photos/assets/7338312/c7054e91-0691-4ee2-b358-d05694b8f512)
+
 #### Frankenstein's monster's PC
 ![image](https://user-images.githubusercontent.com/7338312/199373019-30396237-b7d3-4a40-8a96-3270fbdb5edb.png)
 
