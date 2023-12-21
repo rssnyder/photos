@@ -1,5 +1,9 @@
 # photos
 
+#### Quick trip to Stamford Bridge
+
+![PXL_20231215_161746751](https://github.com/rssnyder/photos/assets/7338312/b35efb08-87bb-4fc8-835f-ab6c78901dea)
+
 #### D&D&D&D
 
 ![PXL_20231119_014605300](https://github.com/rssnyder/photos/assets/7338312/f6c1edad-56ba-4e7f-af8c-d60a8abad213)
