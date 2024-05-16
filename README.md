@@ -1,5 +1,14 @@
 # photos
 
+#### The dudes
+
+![PXL_20240512_002549105 MP](https://github.com/rssnyder/photos/assets/7338312/02380c97-9a82-41c0-9739-4665a07654f3)
+![PXL_20240511_180049180](https://github.com/rssnyder/photos/assets/7338312/47fe41ab-934a-4a3c-8c41-53bdf001bab4)
+
+#### Party time
+
+![PXL_20240428_000130899](https://github.com/rssnyder/photos/assets/7338312/a8b6e2ab-fbf3-4f49-bdcb-c8d32f61fcc1)
+
 #### Watchmen
 
 ![PXL_20240402_232023185](https://github.com/rssnyder/photos/assets/7338312/9cabfd49-2db7-459a-bb9e-e124bc24bbef)
